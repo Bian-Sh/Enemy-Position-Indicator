@@ -21,4 +21,4 @@ This is a very simple repo which would teach you how to make a Enemy Position In
 
 * 如何测试？ 答：Scene场景拖拽小方块即可，超出相机视野就显示指示器。
 
-  How to test, as you see,just drag the small cube on Scene view , The indicator is displayed when the small square exceeds the camera's field of view.
+  How to test, as you see,just drag the small cube on Scene view , The indicator is displayed when cube out of camera's field of view.
